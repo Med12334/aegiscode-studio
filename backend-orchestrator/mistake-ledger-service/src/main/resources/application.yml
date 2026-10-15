@@ -1,0 +1,17 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: mistake-ledger-service
+  datasource:
+    url: jdbc:postgresql://localhost:5432/aegiscode_ledger_db
+    username: aegis_admin
+    password: aegis_password
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    hibernate:
+      ddl-auto: update
+  flyway:
+    enabled: true
