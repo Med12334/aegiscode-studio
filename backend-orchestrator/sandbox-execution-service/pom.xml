@@ -11,7 +11,7 @@
     </parent>
 
     <artifactId>sandbox-execution-service</artifactId>
-    <name>AegisCode Polyglot Sandbox Execution & Debugger</name>
+    <name>AegisCode Polyglot Sandbox Execution and Debugger</name>
 
     <dependencies>
         <dependency>

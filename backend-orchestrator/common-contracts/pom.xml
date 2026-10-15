@@ -11,7 +11,7 @@
     </parent>
 
     <artifactId>common-contracts</artifactId>
-    <name>AegisCode Shared Contracts & DTOs</name>
+    <name>AegisCode Shared Contracts and DTOs</name>
 
     <dependencies>
         <dependency>

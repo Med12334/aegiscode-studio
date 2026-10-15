@@ -11,7 +11,7 @@
     </parent>
 
     <artifactId>cybersec-sast-engine</artifactId>
-    <name>AegisCode Cybersecurity SAST & Cloud Audit Engine</name>
+    <name>AegisCode Cybersecurity SAST and Cloud Audit Engine</name>
 
     <dependencies>
         <dependency>
